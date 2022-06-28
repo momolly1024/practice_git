@@ -8,6 +8,7 @@
 -   合併並刪除 git merge --no-ff source-branch ; git branch -d source-branch
 -   清掉 remote 不存在的 local branch : git remote prune origin
 -   保留分支合併的紀錄 --no-ff git merge `<name>`
+- 暫存 git stash
 
 #### note
 
